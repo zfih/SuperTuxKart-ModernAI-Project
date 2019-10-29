@@ -11,9 +11,10 @@ The repo is made up of a series of repos.
 - *stk-code-mai*: is the code repo, cloned from original stk and going off from
 their 1.0 branch
 - *stk-assets*: is the assets repo, this repo should be downloaded here by using
-the command ```svn checkout
-https://svn.code.sf.net/p/supertuxkart/code/stk-assets stk-assets```. The repo
-is not suited for git and therefore not added to the repo
+the command
+```svn checkout
+https://svn.code.sf.net/p/supertuxkart/code/stk-assets stk-assets```.
+The repo is not suited for git and therefore not added to the this repo
 - *dependencies*: the dependecies needed to compile on some platforms. Using
 these are instructed in the INSTALL.md for stk-code-mai and the Win64
 dependencies have already been moved
