@@ -1,0 +1,3 @@
+[submodule "stk-code-mai"]
+	path = stk-code-mai
+	url = https://github.com/zfih/stk-code-mai
