@@ -1,3 +1,6 @@
 [submodule "stk-code-mai"]
 	path = stk-code-mai
 	url = https://github.com/zfih/stk-code-mai
+[submodule "dependencies"]
+	path = dependencies
+	url = https://github.com/supertuxkart/dependencies
