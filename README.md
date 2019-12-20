@@ -10,7 +10,8 @@ project is cloned.
 ## Repos:
 The repo is made up of a series of repos.
 - *stk-code-mai*: is the code repo, cloned from original stk and going off from
-their 1.0 branch
+their 1.0 branch.
+
 	The code related to this project, including all the `torch` code is in the `/stk-code-mai/src/mai-engine/` folder
 - *stk-assets*: is the assets repo, this repo should be downloaded here by using
 the command
